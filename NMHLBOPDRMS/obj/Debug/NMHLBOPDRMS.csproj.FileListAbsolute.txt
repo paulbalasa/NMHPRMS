@@ -1,0 +1,788 @@
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MetroSuite.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccount.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecordDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmCreateUserAccount.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab1SendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab2SendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatientDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNurseSendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintBloodChemistry.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintFecalysis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintHematology.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintUrinalysis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmViewOldRecordLabRes.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmViewOldRecordMedDiagTreatment.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmViewOldRecordMedicalInfo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlAccountAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\Capstone Project\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Capstone Project\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\Capstone Project\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\Capstone Project (Luma yung sa med info)\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\Capstone Project (Luma yung sa med info)\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\Capstone Project (Luma yung sa med info)\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).pdb
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Telerik.WinControls.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Telerik.WinControls.SpellChecker.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Telerik.WinControls.UI.xml
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.MIS(FinalProject).exe.config
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccount.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecordDoctor.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmBackupRestore.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmCreateUserAccount.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab1SendTo.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab2SendTo.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatientDoctor.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNurseSendTo.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintBloodChemistry.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintFecalysis.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintHematology.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintUrinalysis.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlAccountAdmin.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe.licenses
+C:\Users\LENOVO\Documents\Visual Studio 2015\Projects\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.UserControl1.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+E:\BAGO\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MIS(FinalProject).exe.config
+E:\BAGO\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe
+E:\BAGO\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).pdb
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.MIS(FinalProject).exe.config
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccount.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecordDoctor.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmBackupRestore.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmCreateUserAccount.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab1SendTo.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLab2SendTo.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmLogin.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNewPatientDoctor.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmNurseSendTo.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintAll.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintBloodChemistry.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintFecalysis.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintHematology.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmPrintUrinalysis.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.frnScheduling.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlAccountAdmin.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+F:\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\MIS(FinalProject).exe.licenses
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\Work\Desktop\Files\friends\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+L:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\Work\Desktop\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintActivityLog.resources
+C:\Users\User\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintActivityLog.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\New folder\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Bunifu_UI_v1.4.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Design.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Fonts.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroSuite.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintActivityLog.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+F:\FINAAAAAAAAL\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintActivityLog.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintTreatment.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\LENOVO\Desktop\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\FlashControlV71.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\stdole.dll
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.NMHLBOPDRMS.exe.config
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccount.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecordDoctor.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAdminTrialLock.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmBackupRestore.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCheckConnection.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmationAdmin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmCreateUserAccount.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab1SendTo.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLab2SendTo.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAddRecord.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory1.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLaboratory2.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmListLaboratory.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainDoctor.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory1.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainLaboratory2.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainNurse.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmAccountSetUp.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmConfirmation.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmForgotPassword.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmLogin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmMainAdmin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatient.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNewPatientDoctor.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmNurseSendTo.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPIRAdmin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintActivityLog.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintBloodChemistry.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseData.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintDiseaseMaleFemaleData.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintFecalysis.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintHematology.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintOPDRecord.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintTreatment.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUltrasound.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintUrinalysis.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmPrintXray.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmQuestions.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmQuestionsConfirmation.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSchedulingEditing.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToDrafts.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSendToWaitingPatient.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmSplashScreen.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.frmScheduling.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.Properties.Resources.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlAccountAdmin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlNurseDrafts.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.licenses
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.cache
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\RdlCompile.compiled
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.pdb
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.exe.manifest
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\bin\Debug\NMHLBOPDRMS.application
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.exe.manifest
+C:\Users\User\Desktop\UPDATED\FINAL CAPSTONE PROJECT\NMHLBOPDRMS\obj\Debug\NMHLBOPDRMS.application

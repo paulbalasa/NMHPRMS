@@ -1,0 +1,326 @@
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratorySendTo.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Form1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratorySendTo.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMedicalRecordforDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIR.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLinePatientNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Form1.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratorySendTo.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMedicalRecordforDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIR.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLinePatientNurse.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\MIS(FinalProject)1\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csproj.GenerateResource.Cache
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroSuite.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.xml
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Form1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratorySendTo.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMedicalRecordforDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIR.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLinePatientNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Desktop\CAPSTONE PROJECT THINGS\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MIS(FinalProject).pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\Bunifu_UI_v1.4.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Charts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Layout.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.TreeGX.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Design.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MetroSuite.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Keyboard.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.Schedule.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar.SuperGrid.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\DevComponents.Instrumentation.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\MySql.Data.xml
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecord.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmListLaboratory.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainNurse.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccountSetUp.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmConfirmation.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmForgotPassword.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLogin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmMainAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatient.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPIRAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmSplashScreen.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntlNextInLineLaboratory2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlAccountAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlLaboratoryResults2.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlNextInLineLaboratory1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecordDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientRecord.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlPatientsRecordAdmin.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlStatisticalReport.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlUsersMonitoring.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.usrCntrlWaitingPatientNurse.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLab1SendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmLab2SendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\FlashControlV71.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\bin\Debug\stdole.dll
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPrintBloodChemistry.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPrintFecalysis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPrintHematology.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmPrintUrinalysis.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAddRecordDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNewPatientDoctor.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS(FinalProject).csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmAccount.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmCreateUserAccount.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmNurseSendTo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmViewOldRecordMedicalInfo.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmViewOldRecordMedDiagTreatment.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\MIS(FinalProject)\MIS(FinalProject)\obj\Debug\MIS_FinalProject_.frmViewOldRecordLabRes.resources

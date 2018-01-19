@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2008/01/reportdefinition" xmlns:rd="http://schemas.microsoft.com/SQLServer/reporting/reportdesigner">
+  <Body>
+    <ReportItems>
+      <Image Name="Image1">
+        <Source>Embedded</Source>
+        <Value>received_1887997371225806</Value>
+        <Sizing>FitProportional</Sizing>
+        <Top>0.06684in</Top>
+        <Height>0.57292in</Height>
+        <Width>0.69666in</Width>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+        </Style>
+      </Image>
+      <Textbox Name="Textbox80">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>NORZAGARAY MUNICIPAL HOSPITAL</Value>
+                <Style>
+                  <FontSize>20pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Left>1.08966in</Left>
+        <Height>0.375in</Height>
+        <Width>5.21307in</Width>
+        <ZIndex>1</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox81">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Norzagaray, Bulacan</Value>
+                <Style>
+                  <FontSize>13pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>0.35851in</Top>
+        <Left>2.5857in</Left>
+        <Height>0.28125in</Height>
+        <Width>1.83855in</Width>
+        <ZIndex>2</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox82">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Patient Number:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>0.90539in</Top>
+        <Left>0.03883in</Left>
+        <Height>0.25in</Height>
+        <Width>1.28in</Width>
+        <ZIndex>3</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox83">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Name:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.21092in</Top>
+        <Left>0.03883in</Left>
+        <Height>0.25in</Height>
+        <Width>0.78in</Width>
+        <ZIndex>4</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox84">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Address:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.51647in</Top>
+        <Left>0.03883in</Left>
+        <Height>0.25in</Height>
+        <Width>0.78in</Width>
+        <ZIndex>5</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox90">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Status:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.51647in</Top>
+        <Left>4.92076in</Left>
+        <Height>0.25in</Height>
+        <Width>0.5925in</Width>
+        <ZIndex>6</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox85">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Age:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.83594in</Top>
+        <Left>0.03883in</Left>
+        <Height>0.25in</Height>
+        <Width>0.44667in</Width>
+        <ZIndex>7</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox86">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Sex:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.2109in</Top>
+        <Left>4.92076in</Left>
+        <Height>0.25in</Height>
+        <Width>0.44667in</Width>
+        <ZIndex>8</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="patientNo">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!patientNo.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>patientNo</rd:DefaultName>
+        <Top>0.90539in</Top>
+        <Left>1.38826in</Left>
+        <Height>0.25in</Height>
+        <Width>1in</Width>
+        <ZIndex>9</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="name">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!name.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>name</rd:DefaultName>
+        <Top>1.21094in</Top>
+        <Left>0.88826in</Left>
+        <Height>0.25in</Height>
+        <Width>2.46307in</Width>
+        <ZIndex>10</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="address">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!address.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>address</rd:DefaultName>
+        <Top>1.51647in</Top>
+        <Left>0.88826in</Left>
+        <Height>0.25in</Height>
+        <Width>3.97694in</Width>
+        <ZIndex>11</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="age">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!age.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>age</rd:DefaultName>
+        <Top>1.83594in</Top>
+        <Left>0.55495in</Left>
+        <Height>0.25in</Height>
+        <Width>0.52083in</Width>
+        <ZIndex>12</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="sex">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!sex.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>sex</rd:DefaultName>
+        <Top>1.21092in</Top>
+        <Left>5.43688in</Left>
+        <Height>0.25in</Height>
+        <Width>0.64583in</Width>
+        <ZIndex>13</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="date">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!status.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>date</rd:DefaultName>
+        <Top>1.51647in</Top>
+        <Left>5.55493in</Left>
+        <Height>0.25in</Height>
+        <Width>1in</Width>
+        <ZIndex>14</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Line Name="Line1">
+        <Top>2.53in</Top>
+        <Left>0.03883in</Left>
+        <Height>0in</Height>
+        <Width>6.73485in</Width>
+        <ZIndex>15</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Line Name="Line2">
+        <Top>2.53in</Top>
+        <Left>0.03883in</Left>
+        <Height>5.21306in</Height>
+        <Width>0in</Width>
+        <ZIndex>16</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Line Name="Line3">
+        <Top>2.53in</Top>
+        <Left>6.77368in</Left>
+        <Height>5.10889in</Height>
+        <Width>0in</Width>
+        <ZIndex>17</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Textbox Name="Textbox89">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>OPD Records</Value>
+                <Style>
+                  <FontSize>19pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>2.12375in</Top>
+        <Left>2.66527in</Left>
+        <Height>0.36458in</Height>
+        <Width>1.77779in</Width>
+        <ZIndex>18</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Line Name="Line4">
+        <Top>2.96528in</Top>
+        <Left>0.03883in</Left>
+        <Height>0in</Height>
+        <Width>6.73485in</Width>
+        <ZIndex>19</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Line Name="Line5">
+        <Top>2.53in</Top>
+        <Left>1.21466in</Left>
+        <Height>5.21306in</Height>
+        <Width>0in</Width>
+        <ZIndex>20</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Textbox Name="Textbox91">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>Birthday:</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>1.83594in</Top>
+        <Left>4.92076in</Left>
+        <Height>0.25in</Height>
+        <Width>0.79042in</Width>
+        <ZIndex>21</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="date2">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!birthday.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>date</rd:DefaultName>
+        <Top>1.83594in</Top>
+        <Left>5.75285in</Left>
+        <Height>0.25in</Height>
+        <Width>1in</Width>
+        <ZIndex>22</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Line Name="Line6">
+        <Top>2.53in</Top>
+        <Left>3.60625in</Left>
+        <Height>5.10889in</Height>
+        <Width>0in</Width>
+        <ZIndex>23</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Textbox Name="Textbox87">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>DATE</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>2.59944in</Top>
+        <Left>0.37216in</Left>
+        <Height>0.25in</Height>
+        <Width>0.55084in</Width>
+        <ZIndex>24</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox88">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>PHYSICAL FINDINGS /              DIAGNOSIS</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>2.51611in</Top>
+        <Left>1.51326in</Left>
+        <Height>0.44917in</Height>
+        <Width>1.96307in</Width>
+        <ZIndex>25</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox92">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>MEDICATION / TREATMENT /                   DISPOSITION</Value>
+                <Style>
+                  <FontSize>12pt</FontSize>
+                  <FontWeight>Bold</FontWeight>
+                </Style>
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>2.51611in</Top>
+        <Left>3.99811in</Left>
+        <Height>0.44917in</Height>
+        <Width>2.55462in</Width>
+        <ZIndex>26</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox94">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>TEMPERATURE:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.29514in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>1.23263in</Width>
+        <ZIndex>27</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox95">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>BP:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.02778in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.3368in</Width>
+        <ZIndex>28</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox96">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>CIRCULATORY RATE:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.5625in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>1.43055in</Width>
+        <ZIndex>29</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox97">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>RESPIRATORY RATE:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.82987in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>1.53472in</Width>
+        <ZIndex>30</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox99">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!bp.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.02778in</Top>
+        <Left>2.16702in</Left>
+        <Height>0.19792in</Height>
+        <Width>1.18431in</Width>
+        <ZIndex>31</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox100">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!temp.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.29514in</Top>
+        <Left>2.7816in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.56973in</Width>
+        <ZIndex>32</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox101">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!cr.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.5625in</Top>
+        <Left>2.7816in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.56973in</Width>
+        <ZIndex>33</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox102">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!rr.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.82987in</Top>
+        <Left>2.7816in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.56973in</Width>
+        <ZIndex>34</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox104">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!date.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.80382in</Top>
+        <Left>0.22634in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.84944in</Width>
+        <ZIndex>35</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox105">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!treatment.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.29514in</Top>
+        <Left>3.80873in</Left>
+        <Height>2.15975in</Height>
+        <Width>2.7462in</Width>
+        <ZIndex>36</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox106">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!diagnosis.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>5.0903in</Top>
+        <Left>1.27021in</Left>
+        <Height>2.1823in</Height>
+        <Width>2.20612in</Width>
+        <ZIndex>37</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Line Name="Line7">
+        <Top>7.42014in</Top>
+        <Left>0.03883in</Left>
+        <Height>0in</Height>
+        <Width>6.73485in</Width>
+        <ZIndex>38</ZIndex>
+        <Style>
+          <Border>
+            <Style>Solid</Style>
+          </Border>
+        </Style>
+      </Line>
+      <Textbox Name="Textbox107">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>DIAGNOSIS:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.89238in</Top>
+        <Left>1.27022in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.98263in</Width>
+        <ZIndex>39</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox108">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>TREATMENT:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>3.02778in</Top>
+        <Left>3.80653in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.98263in</Width>
+        <ZIndex>40</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox98">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>WEIGHT:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.09723in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.70139in</Width>
+        <ZIndex>41</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox103">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!weight.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.09723in</Top>
+        <Left>1.91604in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.76389in</Width>
+        <ZIndex>42</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox109">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>HEIGHT:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.35071in</Top>
+        <Left>1.27021in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.70139in</Width>
+        <ZIndex>43</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox110">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!height.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.35071in</Top>
+        <Left>1.91604in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.76389in</Width>
+        <ZIndex>44</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox111">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>BMI:</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.61807in</Top>
+        <Left>1.27022in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.44097in</Width>
+        <ZIndex>45</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox112">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!bmi.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.61807in</Top>
+        <Left>1.66605in</Left>
+        <Height>0.19792in</Height>
+        <Width>0.71179in</Width>
+        <ZIndex>46</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+      <Textbox Name="Textbox113">
+        <CanGrow>true</CanGrow>
+        <KeepTogether>true</KeepTogether>
+        <Paragraphs>
+          <Paragraph>
+            <TextRuns>
+              <TextRun>
+                <Value>=Parameters!bmiCategory.Value</Value>
+                <Style />
+              </TextRun>
+            </TextRuns>
+            <Style />
+          </Paragraph>
+        </Paragraphs>
+        <rd:DefaultName>Textbox80</rd:DefaultName>
+        <Top>4.61807in</Top>
+        <Left>2.36049in</Left>
+        <Height>0.19792in</Height>
+        <Width>1.11584in</Width>
+        <ZIndex>47</ZIndex>
+        <Style>
+          <Border>
+            <Style>None</Style>
+          </Border>
+          <PaddingLeft>2pt</PaddingLeft>
+          <PaddingRight>2pt</PaddingRight>
+          <PaddingTop>2pt</PaddingTop>
+          <PaddingBottom>2pt</PaddingBottom>
+        </Style>
+      </Textbox>
+    </ReportItems>
+    <Height>9.70139in</Height>
+    <Style />
+  </Body>
+  <Width>6.9in</Width>
+  <Page>
+    <LeftMargin>0.8in</LeftMargin>
+    <RightMargin>0.8in</RightMargin>
+    <TopMargin>1in</TopMargin>
+    <BottomMargin>1in</BottomMargin>
+    <Style />
+  </Page>
+  <AutoRefresh>0</AutoRefresh>
+  <ReportParameters>
+    <ReportParameter Name="patientNo">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="name">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="address">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="age">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="sex">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="status">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="birthday">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="date">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="diagnosis">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="bp">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="temp">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="cr">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="rr">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="treatment">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="weight">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="height">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="bmi">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+    <ReportParameter Name="bmiCategory">
+      <DataType>String</DataType>
+      <Nullable>true</Nullable>
+      <AllowBlank>true</AllowBlank>
+      <Prompt>ReportParameter1</Prompt>
+    </ReportParameter>
+  </ReportParameters>
+  <EmbeddedImages>
+    <EmbeddedImage Name="received_1887997371225806">
+      <MIMEType>image/png</MIMEType>
+      <ImageData>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</ImageData>
+    </EmbeddedImage>
+  </EmbeddedImages>
+  <rd:ReportUnitType>Inch</rd:ReportUnitType>
+  <rd:ReportID>ce2efbed-eb14-4740-8059-af3fd5a8ebba</rd:ReportID>
+</Report>
